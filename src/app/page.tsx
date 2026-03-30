@@ -26,6 +26,10 @@ export default async function HomePage() {
                     <button>Zur SSR Seite</button>
                 </Link>
 
+                <Link href="/ISR">
+                    <button>ISR testen</button>
+                </Link>
+
                 <Link href="/api/hello">
                     <button>API testen</button>
                 </Link>
